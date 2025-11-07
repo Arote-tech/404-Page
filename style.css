@@ -26,7 +26,7 @@ img {
 
 
 
-.info h1 {
+h1 {
     font-size: 2rem;
     margin-bottom: 1rem;
 }
@@ -57,7 +57,7 @@ a:hover {
 
 
 
-.info i {
+h1 i {
     margin-left: 4px;
     margin-top: 10px;
 } 
